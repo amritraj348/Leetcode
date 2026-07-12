@@ -85,6 +85,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/amritraj348/Leetcode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/amritraj348/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/amritraj348/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritraj348/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -94,6 +95,7 @@
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
 | [0449-serialize-and-deserialize-bst](https://github.com/amritraj348/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/amritraj348/Leetcode/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/amritraj348/Leetcode/tree/master/0994-rotting-oranges) |
 ## Linked List
 |  |
@@ -153,4 +155,9 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/amritraj348/Leetcode/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/amritraj348/Leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
