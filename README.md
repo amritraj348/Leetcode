@@ -88,6 +88,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/amritraj348/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0785-is-graph-bipartite](https://github.com/amritraj348/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1192-critical-connections-in-a-network](https://github.com/amritraj348/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritraj348/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -166,9 +167,14 @@
 | [0207-course-schedule](https://github.com/amritraj348/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amritraj348/Leetcode/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/amritraj348/Leetcode/tree/master/0785-is-graph-bipartite) |
+| [1192-critical-connections-in-a-network](https://github.com/amritraj348/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/amritraj348/Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amritraj348/Leetcode/tree/master/0210-course-schedule-ii) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/amritraj348/Leetcode/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
