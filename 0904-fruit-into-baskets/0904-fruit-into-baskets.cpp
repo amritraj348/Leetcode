@@ -9,14 +9,12 @@ public:
         while(r<n){
             mpp[fruits[r]]++;
             if(mpp.size()>k){
-                while(mpp.size()>k){
                     mpp[fruits[l]]--;
                     if(mpp[fruits[l]]==0){
                         mpp.erase(fruits[l]);
                     }
                     l++;
                 }
-            }
             if(mpp.size()<=k){
                 maxLen=max(maxLen,r-l+1);
             }
