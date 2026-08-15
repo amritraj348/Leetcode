@@ -133,6 +133,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amritraj348/Leetcode/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amritraj348/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/amritraj348/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amritraj348/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -235,9 +236,14 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/amritraj348/Leetcode/tree/master/0069-sqrtx) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/amritraj348/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/amritraj348/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
