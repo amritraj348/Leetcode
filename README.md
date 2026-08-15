@@ -11,6 +11,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amritraj348/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
+| [0875-koko-eating-bananas](https://github.com/amritraj348/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/amritraj348/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amritraj348/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/amritraj348/Leetcode/tree/master/0994-rotting-oranges) |
@@ -145,6 +146,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/amritraj348/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/amritraj348/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0875-koko-eating-bananas](https://github.com/amritraj348/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/amritraj348/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritraj348/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
