@@ -25,6 +25,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amritraj348/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amritraj348/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amritraj348/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/amritraj348/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amritraj348/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amritraj348/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/amritraj348/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -166,6 +167,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amritraj348/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritraj348/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amritraj348/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1901-find-a-peak-element-ii](https://github.com/amritraj348/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/amritraj348/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
@@ -201,6 +203,7 @@
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amritraj348/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0994-rotting-oranges](https://github.com/amritraj348/Leetcode/tree/master/0994-rotting-oranges) |
+| [1901-find-a-peak-element-ii](https://github.com/amritraj348/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 ## Union-Find
 |  |
 | ------- |
