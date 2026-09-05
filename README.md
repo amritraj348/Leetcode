@@ -30,6 +30,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amritraj348/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/amritraj348/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/amritraj348/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amritraj348/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/amritraj348/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Tree
 |  |
 | ------- |
