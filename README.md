@@ -8,6 +8,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amritraj348/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0152-maximum-product-subarray](https://github.com/amritraj348/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amritraj348/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
@@ -191,6 +192,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/amritraj348/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/amritraj348/Leetcode/tree/master/0877-stone-game) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritraj348/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
