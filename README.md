@@ -32,6 +32,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amritraj348/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amritraj348/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1901-find-a-peak-element-ii](https://github.com/amritraj348/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2104-sum-of-subarray-ranges](https://github.com/amritraj348/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amritraj348/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amritraj348/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3477-fruits-into-baskets-ii](https://github.com/amritraj348/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
@@ -157,6 +158,7 @@
 | [0735-asteroid-collision](https://github.com/amritraj348/Leetcode/tree/master/0735-asteroid-collision) |
 | [0907-sum-of-subarray-minimums](https://github.com/amritraj348/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/amritraj348/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -190,6 +192,7 @@
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/amritraj348/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [2104-sum-of-subarray-ranges](https://github.com/amritraj348/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Design
 |  |
 | ------- |
