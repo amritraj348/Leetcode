@@ -14,6 +14,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amritraj348/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amritraj348/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0735-asteroid-collision](https://github.com/amritraj348/Leetcode/tree/master/0735-asteroid-collision) |
@@ -309,6 +310,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/amritraj348/Leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/amritraj348/Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
@@ -340,4 +342,24 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/amritraj348/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
