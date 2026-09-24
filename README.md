@@ -150,6 +150,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/amritraj348/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amritraj348/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amritraj348/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0328-odd-even-linked-list](https://github.com/amritraj348/Leetcode/tree/master/0328-odd-even-linked-list) |
@@ -213,6 +214,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/amritraj348/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
 |  |
