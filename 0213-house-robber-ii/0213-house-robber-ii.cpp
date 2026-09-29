@@ -1,40 +1,32 @@
 class Solution {
 public:
 
-    int solve(int ind, int start, vector<int>& nums, vector<int>& dp) {
+    int solve(vector<int>& nums) {
+        int n=nums.size();
+        int prev=nums[0];
+        int prev2=0;
+        for(int i=1;i<n;i++){
+            int take=nums[i];
+            if(i>1) take+=prev2;
 
-        if(ind < start)
-            return 0;
+            int notTake=0+prev;
 
-        if(ind == start)
-            return nums[start];
-
-        if(dp[ind] != -1)
-            return dp[ind];
-
-        int pick = nums[ind] + solve(ind - 2, start, nums, dp);
-
-        int notPick = solve(ind - 1, start, nums, dp);
-
-        return dp[ind] = max(pick, notPick);
+            int curri=max(take,notTake);
+            prev2=prev;
+            prev=curri;
+        }
+        return prev;
     }
 
     int rob(vector<int>& nums) {
 
         int n = nums.size();
-
-        if(n == 1)
-            return nums[0];
-
-        vector<int> dp1(n, -1);
-        vector<int> dp2(n, -1);
-
-        // Case 1: Don't rob first
-        int case1 = solve(n - 1, 1, nums, dp1);
-
-        // Case 2: Don't rob last
-        int case2 = solve(n - 2, 0, nums, dp2);
-
-        return max(case1, case2);
+        if(n==1) return nums[0];
+       vector<int>temp1,temp2;
+       for(int i=0;i<n;i++){
+        if(i!=0) temp1.push_back(nums[i]);
+        if(i!=n-1) temp2.push_back(nums[i]);
+       }
+        return max(solve(temp1),solve(temp2));
     }
 };
