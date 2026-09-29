@@ -17,6 +17,7 @@
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/amritraj348/Leetcode/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/amritraj348/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amritraj348/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0735-asteroid-collision](https://github.com/amritraj348/Leetcode/tree/master/0735-asteroid-collision) |
@@ -78,6 +79,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/amritraj348/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/amritraj348/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/amritraj348/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
