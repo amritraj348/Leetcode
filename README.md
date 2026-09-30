@@ -225,6 +225,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amritraj348/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amritraj348/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
@@ -234,6 +235,7 @@
 | [0198-house-robber](https://github.com/amritraj348/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amritraj348/Leetcode/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/amritraj348/Leetcode/tree/master/0877-stone-game) |
 | [0907-sum-of-subarray-minimums](https://github.com/amritraj348/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritraj348/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -245,6 +247,7 @@
 | [0076-minimum-window-substring](https://github.com/amritraj348/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0402-remove-k-digits](https://github.com/amritraj348/Leetcode/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/amritraj348/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
 ## Matrix
 |  |
 | ------- |
