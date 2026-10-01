@@ -233,6 +233,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/amritraj348/Leetcode/tree/master/0062-unique-paths) |
 | [0152-maximum-product-subarray](https://github.com/amritraj348/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amritraj348/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amritraj348/Leetcode/tree/master/0213-house-robber-ii) |
@@ -341,6 +342,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/amritraj348/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/amritraj348/Leetcode/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/amritraj348/Leetcode/tree/master/0877-stone-game) |
@@ -406,4 +408,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/amritraj348/Leetcode/tree/master/0206-reverse-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/amritraj348/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
