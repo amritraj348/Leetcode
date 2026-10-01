@@ -39,6 +39,7 @@
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amritraj348/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/amritraj348/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amritraj348/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2104-sum-of-subarray-ranges](https://github.com/amritraj348/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/amritraj348/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amritraj348/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -59,6 +60,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/amritraj348/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/amritraj348/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amritraj348/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amritraj348/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Divide and Conquer
@@ -347,6 +349,7 @@
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/amritraj348/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amritraj348/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Newton's Method
 |  |
 | ------- |
