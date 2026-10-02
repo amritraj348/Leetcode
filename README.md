@@ -13,6 +13,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amritraj348/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/amritraj348/Leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/amritraj348/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amritraj348/Leetcode/tree/master/0162-find-peak-element) |
@@ -239,6 +240,7 @@
 | [0062-unique-paths](https://github.com/amritraj348/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/amritraj348/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amritraj348/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/amritraj348/Leetcode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/amritraj348/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amritraj348/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amritraj348/Leetcode/tree/master/0213-house-robber-ii) |
