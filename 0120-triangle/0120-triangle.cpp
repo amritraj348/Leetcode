@@ -1,32 +1,31 @@
 class Solution {
 public:
 
-    int solve(int i, int j, vector<vector<int>>& triangle,
-              vector<vector<int>>& dp) {
-
-        // Last row
-        if(i == triangle.size() - 1)
-            return triangle[i][j];
-
-        // Already calculated
-        if(dp[i][j] != INT_MAX)
-            return dp[i][j];
-
-        int down = triangle[i][j] +
-                   solve(i + 1, j, triangle, dp);
-
-        int diagonal = triangle[i][j] +
-                       solve(i + 1, j + 1, triangle, dp);
-
-        return dp[i][j] = min(down, diagonal);
-    }
-
     int minimumTotal(vector<vector<int>>& triangle) {
 
         int n = triangle.size();
 
-        vector<vector<int>> dp(n, vector<int>(n, INT_MAX));
+        vector<vector<int>> dp(n, vector<int>(n, 0));
 
-        return solve(0, 0, triangle, dp);
+        // Copy the last row
+        for(int j = 0; j < n; j++) {
+            dp[n-1][j] = triangle[n-1][j];
+        }
+
+        // Start from second-last row
+        for(int i = n-2; i >= 0; i--) {
+
+            for(int j = 0; j <= i; j++) {
+
+                int down = dp[i+1][j];
+
+                int diagonal = dp[i+1][j+1];
+
+                dp[i][j] = triangle[i][j] +
+                            min(down, diagonal);
+            }
+        }
+
+        return dp[0][0];
     }
 };
