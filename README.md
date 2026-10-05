@@ -368,6 +368,7 @@
 | [1795-rearrange-products-table](https://github.com/amritraj348/Leetcode/tree/master/1795-rearrange-products-table) |
 | [1907-count-salary-categories](https://github.com/amritraj348/Leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/amritraj348/Leetcode/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/amritraj348/Leetcode/tree/master/1978-employees-whose-manager-left-the-company) |
 ## Math
 |  |
 | ------- |
