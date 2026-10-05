@@ -183,6 +183,7 @@
 | [0225-implement-stack-using-queues](https://github.com/amritraj348/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0402-remove-k-digits](https://github.com/amritraj348/Leetcode/tree/master/0402-remove-k-digits) |
 | [0735-asteroid-collision](https://github.com/amritraj348/Leetcode/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/amritraj348/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/amritraj348/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
@@ -269,6 +270,7 @@
 | [0402-remove-k-digits](https://github.com/amritraj348/Leetcode/tree/master/0402-remove-k-digits) |
 | [0449-serialize-and-deserialize-bst](https://github.com/amritraj348/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -440,4 +442,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/amritraj348/Leetcode/tree/master/0062-unique-paths) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
