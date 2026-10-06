@@ -8,7 +8,6 @@ long long power(long long x,long long n){
     while(n>0){
         if(n%2==1){
             ans=(ans*x)%MOD;
-            n=n-1;
         }
         x=(x*x)%MOD;
         n=n/2;
