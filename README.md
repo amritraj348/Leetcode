@@ -378,6 +378,7 @@
 | [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/amritraj348/Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1922-count-good-numbers](https://github.com/amritraj348/Leetcode/tree/master/1922-count-good-numbers) |
 ## Counting
 |  |
 | ------- |
@@ -442,6 +443,7 @@
 | ------- |
 | [0050-powx-n](https://github.com/amritraj348/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amritraj348/Leetcode/tree/master/0206-reverse-linked-list) |
+| [1922-count-good-numbers](https://github.com/amritraj348/Leetcode/tree/master/1922-count-good-numbers) |
 ## Combinatorics
 |  |
 | ------- |
