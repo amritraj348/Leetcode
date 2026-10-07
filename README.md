@@ -186,6 +186,7 @@
 | [0735-asteroid-collision](https://github.com/amritraj348/Leetcode/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0907-sum-of-subarray-minimums](https://github.com/amritraj348/Leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritraj348/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2104-sum-of-subarray-ranges](https://github.com/amritraj348/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 ## Binary Search Tree
@@ -275,6 +276,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/amritraj348/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritraj348/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 | [0402-remove-k-digits](https://github.com/amritraj348/Leetcode/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amritraj348/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritraj348/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Minimax
 |  |
@@ -455,6 +458,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritraj348/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Backtracking
 |  |
 | ------- |
