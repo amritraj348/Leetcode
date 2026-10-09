@@ -20,6 +20,7 @@
 | [0152-maximum-product-subarray](https://github.com/amritraj348/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amritraj348/Leetcode/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/amritraj348/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/amritraj348/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amritraj348/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0189-rotate-array](https://github.com/amritraj348/Leetcode/tree/master/0189-rotate-array) |
 | [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amritraj348/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -386,6 +388,7 @@
 | [0050-powx-n](https://github.com/amritraj348/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/amritraj348/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/amritraj348/Leetcode/tree/master/0069-sqrtx) |
+| [0189-rotate-array](https://github.com/amritraj348/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
 | [0877-stone-game](https://github.com/amritraj348/Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
