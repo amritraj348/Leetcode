@@ -30,6 +30,7 @@
 | [0322-coin-change](https://github.com/amritraj348/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amritraj348/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/amritraj348/Leetcode/tree/master/0494-target-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amritraj348/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/amritraj348/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/amritraj348/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -262,6 +263,7 @@
 | [0322-coin-change](https://github.com/amritraj348/Leetcode/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amritraj348/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/amritraj348/Leetcode/tree/master/0494-target-sum) |
 | [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amritraj348/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/amritraj348/Leetcode/tree/master/0877-stone-game) |
@@ -467,15 +469,18 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0022-generate-parentheses) |
+| [0494-target-sum](https://github.com/amritraj348/Leetcode/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/amritraj348/Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/amritraj348/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/amritraj348/Leetcode/tree/master/0494-target-sum) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/amritraj348/Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/amritraj348/Leetcode/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
