@@ -1,20 +1,18 @@
 class Solution {
 public:
-    int solve(int ind, int sum, vector<int>& nums,
-              int target, vector<vector<int>>& dp) {
+    int solve(int ind, int sum, vector<int>& nums, int target,
+              vector<vector<int>>& dp) {
 
-        if(ind == nums.size()) {
+        if (ind == nums.size()) {
             return sum == target;
         }
 
-        if(dp[ind][sum + 1000] != -1)
+        if (dp[ind][sum + 1000] != -1)
             return dp[ind][sum + 1000];
 
-        int plus = solve(ind + 1, sum + nums[ind],
-                         nums, target, dp);
+        int plus = solve(ind + 1, sum + nums[ind], nums, target, dp);
 
-        int minus = solve(ind + 1, sum - nums[ind],
-                          nums, target, dp);
+        int minus = solve(ind + 1, sum - nums[ind], nums, target, dp);
 
         return dp[ind][sum + 1000] = plus + minus;
     }
