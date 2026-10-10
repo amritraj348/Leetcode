@@ -21,6 +21,7 @@
 | [0152-maximum-product-subarray](https://github.com/amritraj348/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amritraj348/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/amritraj348/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/amritraj348/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
@@ -71,6 +72,7 @@
 | [0076-minimum-window-substring](https://github.com/amritraj348/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/amritraj348/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -87,6 +89,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amritraj348/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amritraj348/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -404,6 +407,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amritraj348/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amritraj348/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Newton's Method
@@ -459,6 +463,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/amritraj348/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
 | [1331-rank-transform-of-an-array](https://github.com/amritraj348/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -502,4 +507,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
