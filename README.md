@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amritraj348/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/amritraj348/Leetcode/tree/master/0035-search-insert-position) |
@@ -256,6 +257,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amritraj348/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amritraj348/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/amritraj348/Leetcode/tree/master/0189-rotate-array) |
@@ -475,6 +477,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/amritraj348/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/amritraj348/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
