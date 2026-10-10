@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/amritraj348/Leetcode/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/amritraj348/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amritraj348/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/amritraj348/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/amritraj348/Leetcode/tree/master/0063-unique-paths-ii) |
@@ -305,6 +306,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amritraj348/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/amritraj348/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/amritraj348/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amritraj348/Leetcode/tree/master/0064-minimum-path-sum) |
@@ -405,6 +407,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amritraj348/Leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/amritraj348/Leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/amritraj348/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/amritraj348/Leetcode/tree/master/0069-sqrtx) |
