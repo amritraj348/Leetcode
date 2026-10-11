@@ -9,6 +9,7 @@
 | [0031-next-permutation](https://github.com/amritraj348/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/amritraj348/Leetcode/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/amritraj348/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/amritraj348/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/amritraj348/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/amritraj348/Leetcode/tree/master/0053-maximum-subarray) |
@@ -517,6 +518,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0022-generate-parentheses) |
+| [0046-permutations](https://github.com/amritraj348/Leetcode/tree/master/0046-permutations) |
 | [0494-target-sum](https://github.com/amritraj348/Leetcode/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
