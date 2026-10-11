@@ -37,6 +37,7 @@
 | [0200-number-of-islands](https://github.com/amritraj348/Leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/amritraj348/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/amritraj348/Leetcode/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/amritraj348/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amritraj348/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
@@ -85,6 +86,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/amritraj348/Leetcode/tree/master/0904-fruit-into-baskets) |
@@ -437,6 +439,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amritraj348/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amritraj348/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Newton's Method
@@ -496,6 +499,7 @@
 | [0049-group-anagrams](https://github.com/amritraj348/Leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/amritraj348/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/amritraj348/Leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/amritraj348/Leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -546,6 +550,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
