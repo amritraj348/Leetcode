@@ -13,6 +13,7 @@
 | [0054-spiral-matrix](https://github.com/amritraj348/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/amritraj348/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amritraj348/Leetcode/tree/master/0064-minimum-path-sum) |
+| [0075-sort-colors](https://github.com/amritraj348/Leetcode/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/amritraj348/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -263,6 +264,7 @@
 | [0015-3sum](https://github.com/amritraj348/Leetcode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amritraj348/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/amritraj348/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/amritraj348/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/amritraj348/Leetcode/tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
@@ -484,6 +486,7 @@
 | ------- |
 | [0015-3sum](https://github.com/amritraj348/Leetcode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/amritraj348/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/amritraj348/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
 | [0912-sort-an-array](https://github.com/amritraj348/Leetcode/tree/master/0912-sort-an-array) |
@@ -549,4 +552,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/amritraj348/Leetcode/tree/master/0912-sort-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amritraj348/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/amritraj348/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
