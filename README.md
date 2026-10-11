@@ -49,6 +49,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/amritraj348/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/amritraj348/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/amritraj348/Leetcode/tree/master/0494-target-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/amritraj348/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amritraj348/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0735-asteroid-collision](https://github.com/amritraj348/Leetcode/tree/master/0735-asteroid-collision) |
 | [0875-koko-eating-bananas](https://github.com/amritraj348/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -91,6 +92,7 @@
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/amritraj348/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amritraj348/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/amritraj348/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/amritraj348/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -126,6 +128,7 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amritraj348/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/amritraj348/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/amritraj348/Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/amritraj348/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
