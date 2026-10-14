@@ -71,6 +71,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/amritraj348/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amritraj348/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amritraj348/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/amritraj348/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/amritraj348/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amritraj348/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -255,6 +256,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/amritraj348/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/amritraj348/Leetcode/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/amritraj348/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/amritraj348/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/amritraj348/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/amritraj348/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
