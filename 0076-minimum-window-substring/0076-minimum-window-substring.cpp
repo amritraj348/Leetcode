@@ -14,7 +14,6 @@ public:
         if(hash[s[r]]>0) cnt=cnt+1;
         hash[s[r]]--;
 
-        if(cnt==t.size()){
             while(cnt==t.size()){
                 if(r-l+1<minLen){
                     minLen=r-l+1;
@@ -26,7 +25,6 @@ public:
             }
             r++;
         }
-       }
        return sIdx==-1?"":s.substr(sIdx,minLen);
     }
 };
