@@ -106,6 +106,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/amritraj348/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/amritraj348/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amritraj348/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amritraj348/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/amritraj348/Leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -339,6 +340,7 @@
 | [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritraj348/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amritraj348/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -386,6 +388,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/amritraj348/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/amritraj348/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/amritraj348/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/amritraj348/Leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Simulation
