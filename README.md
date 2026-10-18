@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amritraj348/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/amritraj348/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/amritraj348/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amritraj348/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/amritraj348/Leetcode/tree/master/0031-next-permutation) |
@@ -342,6 +343,7 @@
 | [0008-string-to-integer-atoi](https://github.com/amritraj348/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/amritraj348/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amritraj348/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/amritraj348/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/amritraj348/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/amritraj348/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -624,4 +626,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amritraj348/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/amritraj348/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
