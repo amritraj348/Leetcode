@@ -363,6 +363,7 @@
 | [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritraj348/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amritraj348/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1903-largest-odd-number-in-string](https://github.com/amritraj348/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/amritraj348/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Matrix
 |  |
@@ -487,6 +488,7 @@
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
 | [0877-stone-game](https://github.com/amritraj348/Leetcode/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amritraj348/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1903-largest-odd-number-in-string](https://github.com/amritraj348/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/amritraj348/Leetcode/tree/master/1922-count-good-numbers) |
 ## Counting
 |  |
@@ -508,6 +510,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amritraj348/Leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritraj348/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1903-largest-odd-number-in-string](https://github.com/amritraj348/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Minimax
 |  |
 | ------- |
