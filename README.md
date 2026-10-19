@@ -78,6 +78,7 @@
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/amritraj348/Leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/amritraj348/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amritraj348/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/amritraj348/Leetcode/tree/master/2104-sum-of-subarray-ranges) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amritraj348/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/amritraj348/Leetcode/tree/master/2643-row-with-maximum-ones) |
@@ -275,6 +276,7 @@
 | [1539-kth-missing-positive-number](https://github.com/amritraj348/Leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1901-find-a-peak-element-ii](https://github.com/amritraj348/Leetcode/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amritraj348/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/amritraj348/Leetcode/tree/master/3477-fruits-into-baskets-ii) |
 ## Monotonic Stack
 |  |
@@ -570,6 +572,7 @@
 | [0912-sort-an-array](https://github.com/amritraj348/Leetcode/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/amritraj348/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/amritraj348/Leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/amritraj348/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Recursion
 |  |
 | ------- |
