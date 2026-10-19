@@ -360,6 +360,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/amritraj348/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0449-serialize-and-deserialize-bst](https://github.com/amritraj348/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0647-palindromic-substrings](https://github.com/amritraj348/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0796-rotate-string](https://github.com/amritraj348/Leetcode/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritraj348/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amritraj348/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -641,4 +642,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/amritraj348/Leetcode/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/amritraj348/Leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
