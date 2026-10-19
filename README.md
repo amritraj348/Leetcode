@@ -347,6 +347,7 @@
 | [0013-roman-to-integer](https://github.com/amritraj348/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amritraj348/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0022-generate-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/amritraj348/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amritraj348/Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/amritraj348/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/amritraj348/Leetcode/tree/master/0125-valid-palindrome) |
