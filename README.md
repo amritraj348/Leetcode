@@ -231,6 +231,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0020-valid-parentheses) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amritraj348/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0173-binary-search-tree-iterator](https://github.com/amritraj348/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/amritraj348/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -353,6 +354,7 @@
 | [0012-integer-to-roman](https://github.com/amritraj348/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/amritraj348/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/amritraj348/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/amritraj348/Leetcode/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/amritraj348/Leetcode/tree/master/0049-group-anagrams) |
@@ -589,6 +591,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0022-generate-parentheses) |
 | [0856-score-of-parentheses](https://github.com/amritraj348/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/amritraj348/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
