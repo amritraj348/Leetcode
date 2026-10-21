@@ -1,8 +1,7 @@
 class MyStack {
-    queue<int>q;
 public:
+queue<int>q;
     MyStack() {
-        
     }
     
     void push(int x) {
@@ -12,7 +11,6 @@ public:
             q.push(q.front());
             q.pop();
         }
-
     }
     
     int pop() {
@@ -26,7 +24,12 @@ public:
     }
     
     bool empty() {
-        return q.empty();
+        if(q.empty()){
+            return true;
+        }
+        else{
+            return false;
+        }
     }
 };
 
