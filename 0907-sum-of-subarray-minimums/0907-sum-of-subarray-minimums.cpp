@@ -5,56 +5,55 @@ public:
         int n = arr.size();
         int mod = 1e9 + 7;
 
-        vector<int> pse(n);
-        vector<int> nse(n);
+        vector<int>next(n);
+        vector<int>prev(n);
+        stack<int>st;
 
-        stack<int> st;
-
-        
-        for (int i = 0; i < n; i++) {
-
-            while (!st.empty() && arr[st.top()] > arr[i]) {
+        for(int i=0;i<n;i++){
+            while(!st.empty()&&arr[st.top()]>arr[i]){
                 st.pop();
             }
 
-            if (st.empty())
-                pse[i] = -1;
-            else
-                pse[i] = st.top();
-
+            if(st.empty()){
+                prev[i]=-1;
+            }
+            else{
+                prev[i]=st.top();
+            }
             st.push(i);
         }
 
-        while (!st.empty())
+           while (!st.empty())
             st.pop();
-
-        for (int i = n - 1; i >= 0; i--) {
-
-            while (!st.empty() && arr[st.top()] >= arr[i]) {
+        for(int i=n-1;i>=0;i--){
+            while(!st.empty()&&arr[st.top()]>=arr[i]){
                 st.pop();
             }
 
-            if (st.empty())
-                nse[i] = n;
-            else
-                nse[i] = st.top();
-
+            if(st.empty()){
+                next[i]=n;
+            }
+            else{
+                next[i]=st.top();
+            }
             st.push(i);
         }
 
-        long long ans = 0;
+        long long ans=0;
+        for(int i=0;i<n;i++){
+            long long left=i-prev[i];
+            long long right=next[i]-i;
 
-        for (int i = 0; i < n; i++) {
+            long long contribution=(1LL*arr[i]*left%mod)*right%mod;
 
-            long long left = i - pse[i];
-            long long right = nse[i] - i;
-
-            long long contribution =
-                (arr[i] * left % mod) * right % mod;
-
-            ans = (ans + contribution) % mod;
+            ans=(ans+contribution)%mod;
         }
 
         return ans;
+
+
+
     }
+
+
 };
