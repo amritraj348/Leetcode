@@ -16,14 +16,16 @@ public:
                 else{
                     Lmax=height[l];
                 }
+                l=l+1;
             }
             else{
                 if(Rmax>height[r]){
-                    total+=Rmax-height[l];
+                    total+=Rmax-height[r];
                 }
                 else{
                     Rmax=height[r];
                 }
+                r=r-1;
             }
         }
         return total;
