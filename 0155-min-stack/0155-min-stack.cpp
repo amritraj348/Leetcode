@@ -1,8 +1,11 @@
 class MinStack {
     stack<int>st;
+    long long mini;
+    long long x;
+
 public:
     MinStack() {
-        mini=LLMAX;
+        mini=LLONG_MAX;
     }
     
     void push(int value) {
