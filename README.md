@@ -104,6 +104,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amritraj348/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/amritraj348/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/amritraj348/Leetcode/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/amritraj348/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
@@ -231,6 +232,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/amritraj348/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amritraj348/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/amritraj348/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/amritraj348/Leetcode/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/amritraj348/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/amritraj348/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amritraj348/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -307,6 +309,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/amritraj348/Leetcode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/amritraj348/Leetcode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/amritraj348/Leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/amritraj348/Leetcode/tree/master/0225-implement-stack-using-queues) |
@@ -701,4 +704,8 @@
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/amritraj348/Leetcode/tree/master/0901-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/amritraj348/Leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
