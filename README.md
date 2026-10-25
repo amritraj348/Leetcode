@@ -52,6 +52,7 @@
 | [0283-move-zeroes](https://github.com/amritraj348/Leetcode/tree/master/0283-move-zeroes) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amritraj348/Leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amritraj348/Leetcode/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/amritraj348/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/amritraj348/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amritraj348/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/amritraj348/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -112,6 +113,7 @@
 | [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amritraj348/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/amritraj348/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/amritraj348/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/amritraj348/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/amritraj348/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -140,6 +142,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/amritraj348/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/amritraj348/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/amritraj348/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/amritraj348/Leetcode/tree/master/0912-sort-an-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Segment Tree
@@ -542,6 +545,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/amritraj348/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/amritraj348/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/amritraj348/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/amritraj348/Leetcode/tree/master/0621-task-scheduler) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amritraj348/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -613,6 +617,7 @@
 | [0229-majority-element-ii](https://github.com/amritraj348/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/amritraj348/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/amritraj348/Leetcode/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/amritraj348/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/amritraj348/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/amritraj348/Leetcode/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/amritraj348/Leetcode/tree/master/0846-hand-of-straights) |
@@ -673,6 +678,7 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amritraj348/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0239-sliding-window-maximum](https://github.com/amritraj348/Leetcode/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/amritraj348/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/amritraj348/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/amritraj348/Leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/amritraj348/Leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -680,6 +686,7 @@
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/amritraj348/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/amritraj348/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/amritraj348/Leetcode/tree/master/0912-sort-an-array) |
 ## Radix Sort
@@ -732,4 +739,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/amritraj348/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/amritraj348/Leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
