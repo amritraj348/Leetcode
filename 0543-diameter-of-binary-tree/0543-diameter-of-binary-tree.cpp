@@ -16,11 +16,11 @@ public:
         height(root,diameter);
         return diameter;
     }
-    int height(TreeNode* root,int &diamater){
+    int height(TreeNode* root,int &diameter){
         if(root==NULL) return 0;
 
         int lh=height(root->left,diameter);
-        int lh=height(root->right,diameter);
+        int rh=height(root->right,diameter);
         diameter=max(diameter,lh+rh);
         return 1+max(lh,rh);
     }
