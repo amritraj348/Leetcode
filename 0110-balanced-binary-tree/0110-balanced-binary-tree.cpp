@@ -18,10 +18,10 @@ public:
     int height(TreeNode* root){
          if(root==NULL) return 0;
 
-        int lh=isBalanced(root->left);
-        if(lh==-1) return false;
-        int rh=isBalanced(root->right);
-        if(rh==-1) return false;
+        int lh=height(root->left);
+        if(lh==-1) return -1;
+        int rh=height(root->right);
+        if(rh==-1) return -1;
         if(abs(rh-lh)>1) return -1;
         return 1+max(lh,rh);
     }
