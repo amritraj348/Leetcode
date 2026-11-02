@@ -13,20 +13,16 @@ class Solution {
 public:
     int ans = -1;
     int cnt = 0;
+    void inorder(TreeNode* root,int k){
+        if(!root||ans!=-1) return;
 
-    void inorder(TreeNode* root, int k) {
-        if (!root || ans != -1)
-            return;
-
-        inorder(root->left, k);
-
+        inorder(root->left,k);
         cnt++;
-        if (cnt == k) {
-            ans = root->val;
+        if(cnt==k){
+            ans=root->val;
             return;
         }
-
-        inorder(root->right, k);
+        inorder(root->right,k);
     }
 
     int kthSmallest(TreeNode* root, int k) {
