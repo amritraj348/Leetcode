@@ -18,7 +18,7 @@ public:
 
     TreeNode* buildTree(vector<int>&root,int& i,int ub){
         if(i==root.size()||root[i]>ub) return NULL;
-        TreeNode * node=new TreeNode(root[i++]);
+        TreeNode* node=new TreeNode(root[i++]);
         node->left=buildTree(root,i,node->val);
         node->right=buildTree(root,i,ub);
         return node;
